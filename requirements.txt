@@ -1,2 +1,4 @@
-streamlit==1.28.1
-pandas==2.0.3
+# Créer requirements.txt manuellement (recommandé)
+# Listez uniquement ce que VOTRE app utilise, pas tout pip freeze
+streamlit==1.32.0
+pandas==2.2.0
